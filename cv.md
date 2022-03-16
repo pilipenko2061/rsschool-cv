@@ -26,5 +26,4 @@ function doubleInteger(i) {
 - **University:** Belarusian State University of Transport, 
 specialty "industrial and civil construction"
 
-## Language
-- **English (A1)**
+## English (A1)
