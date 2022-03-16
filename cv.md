@@ -20,7 +20,6 @@ function doubleInteger(i) {
 }
 ```
 ## Experiens
--
 
 ## Education
 - **University:** Belarusian State University of Transport, 
